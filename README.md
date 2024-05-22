@@ -1,8 +1,6 @@
 
 # React Blog Website.
 
-### live webiste at :- https://react-blog-website.vercel.app/
-
 ## concepts Are Used :
 
       1. Reacts Hooks
@@ -20,7 +18,7 @@
  - yarn
  - yarn start
 
-**NOTE** : If you stuck then contact me on LinkedIn (https://in.linkedin.com/in/mohit-sojitra)
+**NOTE** : If you stuck then contact me on LinkedIn (https://in.linkedin.com/in/utkarshkatiyar1)
 
 ## Request
 
