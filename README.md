@@ -1,31 +1,39 @@
+## Try on Initializ
 
-# React Blog Website.
+## On Dev 
+[![Kubeday India](https://res.cloudinary.com/daosik5yi/image/upload/f_auto,q_auto/pntsnjpa1sxbc2d02q9n)](https://console.dev.initializ.ai/create-app/?clone=https://github.com/initializ-templates/React-Blog-Website&repo_name=React-Blog-Website&description=♾%20A%20cool%20React-based%20blog%20website&github=true)
 
-## concepts Are Used :
+## On Prod 
+[![Kubeday India](https://res.cloudinary.com/daosik5yi/image/upload/f_auto,q_auto/pntsnjpa1sxbc2d02q9n)](https://console.initializ.ai/create-app/?clone=https://github.com/initializ-templates/React-Blog-Website&repo_name=React-Blog-Website&description=♾%20A%20cool%20React-based%20blog%20website&github=true)
 
-      1. Reacts Hooks
-      2. React Routing
-      3. Pagination
-      4. Diffrent Sorting
-      5. React advanced hooks
-      
- ## Step to Start Project
- 
-  
+## Prerequisite 
+### Must have an Account on [Initializ.ai](https://console.initializ.ai/register/)<br><br>
 
- - git clone REPO_URL
- - cd react-blog-website
- - yarn
- - yarn start
-
-**NOTE** : If you stuck then contact me on LinkedIn (https://in.linkedin.com/in/utkarshkatiyar1)
-
-## Request
-
- - If You find any bug then please **create issue** i love to solve that
- - If you want to contribute this project then **feel free to make pull request** i love to merge your request
- - If You have suggestion or want new feature the feel free to **create an issue with label features**.
+#### Steps to Create Account
+ Step 1: [SignUp](https://console.initializ.ai/register/) <br>
+ <br>[![Sign Up](https://res.cloudinary.com/dd4xje8fc/image/upload/v1717773727/image_1_eaxyhp.png)](https://console.initializ.ai/register/)<br><br>
+ Step 2: Verify Your Email<br><br>
+ Step 3: [Sign In](https://console.initializ.ai/login/) <br><br>[![Sign In](https://res.cloudinary.com/dd4xje8fc/image/upload/v1717773726/image_2_pi56ah.png)](https://console.initializ.ai/login/)<br><br>
+ Step 4: [Deploy on Initializ](https://console.initializ.ai/create-app/?clone=https://github.com/initializ-templates/React-Blog-Website&repo_name=React-Blog-Website&description=♾%20A%20cool%20React-based%20blog%20website&github=true)
 
 
-#### If you like project then feel free to give Star 😅
+## How To Use 
 
+From your command line, clone and run React-Blog-Website :
+
+```bash
+# Clone this repository
+git clone https://github.com/initializ-templates/React-Blog-Website.git
+
+# Go into the repository
+cd React-Blog-Website 
+
+# Setup default environment variables
+
+# For Linux
+cp env.example .env
+# For Windows
+copy env.example .env
+
+# Install dependencies
+npm install
